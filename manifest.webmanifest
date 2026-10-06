@@ -1,0 +1,17 @@
+{
+  "name": "Chess Coach — Best Move",
+  "short_name": "Chess Coach",
+  "description": "Reads chess screenshots, finds the best move with Stockfish and coaches you like an experienced chess coach.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#142027",
+  "theme_color": "#1C2B33",
+  "categories": ["games", "education"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
