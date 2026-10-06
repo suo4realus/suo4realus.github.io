@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.suo4realus.twa",
+        "sha256_cert_fingerprints": ["31:94:29:C9:04:3C:CB:A8:94:3D:A7:36:6F:47:7B:AD:8C:C0:04:02:80:D7:7B:64:99:99:A2:A6:EA:A6:C2:7B"]
+      }
+    }]
